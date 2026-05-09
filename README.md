@@ -13,16 +13,22 @@ Healthy life expectancy
 Freedom
 Generosity
 Perception of corruption
+
+
 🎯 Project Objectives
 Explore and clean world happiness data using Python (Pandas)
 Perform exploratory data analysis (EDA)
 Identify the happiest and least happy countries
 Analyze relationships between happiness score and other factors
 Create interactive dashboards using Power BI
+
+
 🛠️ Tools & Technologies
 Python (Pandas, Matplotlib, Seaborn)
 Power BI
 Jupyter Notebook
+
+
 📊 Key Insights
 Western European countries dominate the top happiness rankings
 GDP per capita and social support strongly influence happiness scores
